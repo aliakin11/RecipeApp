@@ -124,7 +124,6 @@ RecipeApp/
 
 ### Kullanılan Design Patterns
 - 🔄 MVVM
-- 🏭 Factory Pattern
 - 💉 Dependency Injection
 - 🎯 Protocol-Delegate Pattern
 - 🔓 Singleton (CoreData Manager)
