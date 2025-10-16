@@ -29,7 +29,6 @@ Modern iOS geliştirme pratiklerini ve endüstri standartlarını uygulayarak ge
 
 ### 2. MVVM Implementation
 ```swift
-// ViewModel Example - SOLID Principles & Dependency Injection
 final class RecipeViewModel {
     private let recipeService: RecipeServiceProtocol
     private let coreDataManager: CoreDataManagerProtocol
@@ -111,7 +110,7 @@ RecipeApp/
 └── Resources/
 ```
 
-## Teknik Kazanımlar 🎯
+## Teknik Kazanımlar 
 
 ### Uygulanan Best Practices
 - ✅ SOLID Principles
@@ -123,10 +122,10 @@ RecipeApp/
 - ✅ Thread Safety
 
 ### Kullanılan Design Patterns
-- 🔄 MVVM
-- 💉 Dependency Injection
-- 🎯 Protocol-Delegate Pattern
-- 🔓 Singleton (CoreData Manager)
+-  MVVM
+-  Dependency Injection
+-  Protocol-Delegate Pattern
+-  Singleton (CoreData Manager)
 
 ## Geliştirme Ortamı ve Araçlar
 
