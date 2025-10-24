@@ -4,12 +4,12 @@
 Modern iOS geliştirme pratiklerini ve endüstri standartlarını uygulayarak geliştirdiğim kapsamlı bir yemek tarifi uygulaması. Bu proje, MVVM mimarisi, SOLID prensipler ve en güncel iOS teknolojilerini kullanarak geliştirilmiştir.
 
 ### Temel Teknolojiler ve Yaklaşımlar
-- 🏗 **MVVM Architecture**
-- 💻 **%100 Programmatic UI**
-- 🔄 **Protocol-Oriented Programming**
-- 📱 **iOS 13.0+ Support**
-- 🗄 **CoreData Integration**
-- 🌐 **RESTful API Integration**
+- **MVVM Architecture**
+- **%100 Programmatic UI**
+- **Protocol-Oriented Programming**
+- **iOS 13.0+ Support**
+- **CoreData Integration**
+- **RESTful API Integration**
 
 ## Teknik Detaylar ve Implementasyon 🛠
 
